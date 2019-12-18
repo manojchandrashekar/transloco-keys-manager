@@ -170,7 +170,7 @@ Now, it'll create the files in the provided folder.
 
 ### Dynamic Keys
 
-There are times when we need to extract keys with valus that may change during runtime. One example can be when you need to use a dynamic expression:
+There are times when we need to extract keys with values that may change during runtime. One example can be when you need to use a dynamic expression:
 
 ```ts
 import { TranslocoService } from '@ngneat/transloco';
